@@ -12,7 +12,7 @@
  * Output: extensions/keplr/ (unpacked extension directory)
  */
 
-import { execSync } from ' ';
+import { execSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';

@@ -5,7 +5,7 @@ cypress/videos/
 extensions/
 
 # Synpress cache
-.synpress/
+.synpress
 
 # macOS
 .DS_Store
